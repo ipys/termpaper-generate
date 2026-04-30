@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+output/
+*.docx
+*.pdf
+assets/logo_*.png
+assets/logo_*.jpg
+.venv/
+venv/
